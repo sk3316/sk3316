@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Python and Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://sk3316.github.io/_portfolio_/](https://sk3316.github.io/_portfolio_/)
+- 👨‍💻 All of my projects are available at [https://portfoliyo-lime.vercel.app/](https://portfoliyo-lime.vercel.app/)
 
 - 📝 I regularly write articles on [https://shitiiboiiii.blogspot.com/](https://shitiiboiiii.blogspot.com/)
 
